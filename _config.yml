@@ -1,0 +1,14 @@
+layout_spectrum: 0.3476703
+color:
+  saturation: 0.8635706
+  lightness: 0.8208653
+  brandStrength: 0.8548387
+  brandColors:
+    - '#505050'
+    - '#C2D693'
+    - '#82BB42'
+    - '#52862E'
+    - '#020202'
+  rhythmicContrast: 0.3238278
+typography_spectrum: 0.9032258
+name: Purebase Networks
